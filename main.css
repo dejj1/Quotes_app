@@ -80,7 +80,7 @@ body{
     cursor: pointer;
 }
 .quote-box button img{
-    width: 20px;
+    width: 25px;
     margin-right: 10px;
 }
 .quote-box button:nth-child(2){
